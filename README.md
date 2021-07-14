@@ -15,7 +15,7 @@ Implementar um sistema web com duas páginas, a saber:
         - Orgânico, e;
         - Não orgânico.
 
-2. Página para exibição dos produtos cadastrados, que deverá mostrar apenas 5 itens por página.
+2. Página para exibição dos produtos cadastrados, que deverá mostrar apenas 5 itens por página (de uma grid/tabela).
 
 O sistema também deve possuir um menu que permita a navegação entre as duas páginas.
 
