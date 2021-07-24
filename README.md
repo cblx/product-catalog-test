@@ -31,7 +31,7 @@ Para armazenamento dos dados, utilizar o [EF Core](https://github.com/dotnet/efc
 
 Serão avaliados os seguintes aspectos:
 - Organização do código;
-- Proeficiência nas tecnologias de backend e frontend (ASP.NET, Vue ou Angular);
+- Proeficiência nas tecnologias de backend (ASP.NET Core) e frontend (Vue ou Angular);
 - Conhecimento das linguagens: C# e TypeScript.
 
 ## Informações Adicionais
