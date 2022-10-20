@@ -21,7 +21,7 @@ O sistema também deve possuir um menu que permita a navegação entre as duas p
 
 ## Tecnologia a ser utilizada
 
-Gostaríamos de ver uma solução *backend* desenvolvida em ASP.NET Core com [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0).
+Gostaríamos de ver uma solução *backend* desenvolvida em [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) com [.NET (latest)](https://dotnet.microsoft.com/en-us/download).
 
 O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/)/[Angular](https://angular.io/) (priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/)) ou [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor).
 
