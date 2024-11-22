@@ -23,7 +23,7 @@ O sistema também deve possuir um menu que permita a navegação entre as duas p
 
 Gostaríamos de ver uma solução *backend* desenvolvida em [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) com [.NET (latest)](https://dotnet.microsoft.com/en-us/download).
 
-O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/)/[Angular](https://angular.io/) (priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/)) ou [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor).
+O *frontend* deve ser elaborado em [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor).
 
 Para armazenamento dos dados, utilizar o [EF Core](https://github.com/dotnet/efcore), utilizando store local/em memória.
 
